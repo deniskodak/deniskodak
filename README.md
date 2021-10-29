@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+| Current skills |
+| HTML/CSS/SCSS |
+| Javascript |
+| React, redux, router, hooks |
+| Node.js, Express.js, MongoDB |
+| Git, postman |
+
 <!--
 **deniskodak/deniskodak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
