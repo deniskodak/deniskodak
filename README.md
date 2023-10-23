@@ -3,11 +3,12 @@
 | Current skills |
 | --- |
 | HTML/CSS/SCSS |
-| Javascript |
-| React, redux, router, hooks |
+| Javascript, Typescript |
+| React, redux, router, antd/material, unit tests |
+| Angular, NgRx, RxJs, unit tests |
 | Node.js, Express.js, MongoDB |
-| Git, postman |
+| Git, Postman, Cypress e2e |
 
 Now I am looking for a job :bowtie:
 
-At he left side you can find how to reach me 📫
+At the left side you can find how to reach me 📫
